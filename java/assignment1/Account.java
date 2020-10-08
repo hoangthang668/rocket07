@@ -7,4 +7,7 @@ public class Account {
 	Position position;
 	Date creatDate;
 	Gender gender;
+	Groupp[] groups;
+	String userName;
+	String fullName;
 }
